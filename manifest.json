@@ -6,5 +6,6 @@
   "background": {
     "scripts": ["background.js"],
     "persistence": false
-  }
+  },
+  "permissions": ["bookmarks"]
 }
