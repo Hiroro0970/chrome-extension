@@ -19,5 +19,8 @@
     "48": "icon.png",
     "128": "icon.png"
   },
-  "permissions": ["bookmarks"]
+  "browser_action": {
+    "default_title": "This is just an prototype of chrome extension",
+    "default_popup": "popup.html"
+  }
 }
